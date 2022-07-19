@@ -1,0 +1,193 @@
+# github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869
+## explicit
+github.com/bmizerany/assert
+# github.com/chasex/redis-go-cluster v1.0.0
+## explicit
+github.com/chasex/redis-go-cluster
+# github.com/garyburd/redigo v1.6.3
+## explicit; go 1.17
+github.com/garyburd/redigo/internal
+github.com/garyburd/redigo/redis
+# github.com/go-ini/ini v1.66.6
+## explicit
+github.com/go-ini/ini
+# github.com/go-ole/go-ole v1.2.6
+## explicit; go 1.12
+github.com/go-ole/go-ole
+github.com/go-ole/go-ole/oleutil
+# github.com/golang/protobuf v1.4.2
+## explicit; go 1.9
+github.com/golang/protobuf/proto
+# github.com/golang/snappy v0.0.1
+## explicit
+github.com/golang/snappy
+# github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
+## explicit
+github.com/kardianos/osext
+# github.com/klauspost/cpuid/v2 v2.0.14
+## explicit; go 1.15
+github.com/klauspost/cpuid/v2
+# github.com/klauspost/reedsolomon v1.10.0
+## explicit; go 1.15
+github.com/klauspost/reedsolomon
+# github.com/kr/pretty v0.1.0
+## explicit
+github.com/kr/pretty
+# github.com/kr/text v0.1.0
+## explicit
+github.com/kr/text
+# github.com/petar/GoLLRB v0.0.0-20210522233825-ae3b015fd3e9
+## explicit; go 1.15
+github.com/petar/GoLLRB/llrb
+# github.com/pkg/errors v0.9.1
+## explicit
+github.com/pkg/errors
+# github.com/sevlyar/go-daemon v0.1.6
+## explicit
+github.com/sevlyar/go-daemon
+# github.com/shirou/gopsutil v2.21.11+incompatible
+## explicit
+github.com/shirou/gopsutil/cpu
+github.com/shirou/gopsutil/internal/common
+github.com/shirou/gopsutil/mem
+github.com/shirou/gopsutil/net
+github.com/shirou/gopsutil/process
+# github.com/templexxx/cpufeat v0.0.0-20180724012125-cef66df7f161
+## explicit
+github.com/templexxx/cpufeat
+# github.com/templexxx/xor v0.0.0-20191217153810-f85b25db303b
+## explicit
+github.com/templexxx/xor
+# github.com/tjfoc/gmsm v1.4.1
+## explicit; go 1.14
+github.com/tjfoc/gmsm/sm4
+# github.com/tklauser/go-sysconf v0.3.10
+## explicit; go 1.13
+github.com/tklauser/go-sysconf
+# github.com/tklauser/numcpus v0.4.0
+## explicit; go 1.11
+github.com/tklauser/numcpus
+# github.com/vmihailenco/msgpack v3.3.3+incompatible
+## explicit
+github.com/vmihailenco/msgpack
+github.com/vmihailenco/msgpack/codes
+# github.com/xiaonanln/go-aoi v0.2.0
+## explicit
+github.com/xiaonanln/go-aoi
+# github.com/xiaonanln/go-trie-tst v0.0.0-20171018095208-5b9678d55438
+## explicit
+github.com/xiaonanln/go-trie-tst
+# github.com/xiaonanln/go-xnsyncutil v0.0.5
+## explicit
+github.com/xiaonanln/go-xnsyncutil/xnsyncutil
+# github.com/xiaonanln/goTimer v0.0.3
+## explicit
+github.com/xiaonanln/goTimer
+# github.com/xiaonanln/netconnutil v0.0.0-20200905060227-8faf06e9a365
+## explicit
+github.com/xiaonanln/netconnutil
+# github.com/xiaonanln/pktconn v0.0.0-20200905130536-8a9529b7c220
+## explicit; go 1.11
+github.com/xiaonanln/pktconn
+# github.com/xiaonanln/tickchan v0.0.0-20181130012730-45de2aab1755
+## explicit
+github.com/xiaonanln/tickchan
+# github.com/xiaonanln/typeconv v0.0.4
+## explicit
+github.com/xiaonanln/typeconv
+# github.com/xtaci/kcp-go v4.3.4+incompatible
+## explicit
+github.com/xtaci/kcp-go
+# github.com/yusufpapurcu/wmi v1.2.2
+## explicit; go 1.16
+github.com/yusufpapurcu/wmi
+# go.uber.org/atomic v1.7.0
+## explicit; go 1.13
+go.uber.org/atomic
+# go.uber.org/multierr v1.6.0
+## explicit; go 1.12
+go.uber.org/multierr
+# go.uber.org/zap v1.21.0
+## explicit; go 1.13
+go.uber.org/zap
+go.uber.org/zap/buffer
+go.uber.org/zap/internal/bufferpool
+go.uber.org/zap/internal/color
+go.uber.org/zap/internal/exit
+go.uber.org/zap/zapcore
+# golang.org/x/crypto v0.0.0-20201012173705-84dcc777aaee
+## explicit; go 1.11
+golang.org/x/crypto/blowfish
+golang.org/x/crypto/cast5
+golang.org/x/crypto/internal/subtle
+golang.org/x/crypto/pbkdf2
+golang.org/x/crypto/salsa20
+golang.org/x/crypto/salsa20/salsa
+golang.org/x/crypto/tea
+golang.org/x/crypto/twofish
+golang.org/x/crypto/xtea
+# golang.org/x/net v0.0.0-20220708220712-1185a9018129
+## explicit; go 1.17
+golang.org/x/net/bpf
+golang.org/x/net/context
+golang.org/x/net/internal/iana
+golang.org/x/net/internal/socket
+golang.org/x/net/ipv4
+golang.org/x/net/websocket
+# golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8
+## explicit; go 1.17
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# google.golang.org/appengine v1.6.7
+## explicit; go 1.11
+google.golang.org/appengine
+google.golang.org/appengine/datastore
+google.golang.org/appengine/datastore/internal/cloudkey
+google.golang.org/appengine/datastore/internal/cloudpb
+google.golang.org/appengine/internal
+google.golang.org/appengine/internal/app_identity
+google.golang.org/appengine/internal/base
+google.golang.org/appengine/internal/datastore
+google.golang.org/appengine/internal/log
+google.golang.org/appengine/internal/modules
+google.golang.org/appengine/internal/remote_api
+# google.golang.org/protobuf v1.23.0
+## explicit; go 1.9
+google.golang.org/protobuf/encoding/prototext
+google.golang.org/protobuf/encoding/protowire
+google.golang.org/protobuf/internal/descfmt
+google.golang.org/protobuf/internal/descopts
+google.golang.org/protobuf/internal/detrand
+google.golang.org/protobuf/internal/encoding/defval
+google.golang.org/protobuf/internal/encoding/messageset
+google.golang.org/protobuf/internal/encoding/tag
+google.golang.org/protobuf/internal/encoding/text
+google.golang.org/protobuf/internal/errors
+google.golang.org/protobuf/internal/fieldnum
+google.golang.org/protobuf/internal/fieldsort
+google.golang.org/protobuf/internal/filedesc
+google.golang.org/protobuf/internal/filetype
+google.golang.org/protobuf/internal/flags
+google.golang.org/protobuf/internal/genname
+google.golang.org/protobuf/internal/impl
+google.golang.org/protobuf/internal/mapsort
+google.golang.org/protobuf/internal/pragma
+google.golang.org/protobuf/internal/set
+google.golang.org/protobuf/internal/strs
+google.golang.org/protobuf/internal/version
+google.golang.org/protobuf/proto
+google.golang.org/protobuf/reflect/protoreflect
+google.golang.org/protobuf/reflect/protoregistry
+google.golang.org/protobuf/runtime/protoiface
+google.golang.org/protobuf/runtime/protoimpl
+# gopkg.in/eapache/queue.v1 v1.1.0
+## explicit
+gopkg.in/eapache/queue.v1
+# gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
+## explicit
+gopkg.in/mgo.v2
+gopkg.in/mgo.v2/bson
+gopkg.in/mgo.v2/internal/json
+gopkg.in/mgo.v2/internal/sasl
+gopkg.in/mgo.v2/internal/scram
