@@ -26,7 +26,6 @@ fc
 examples/*/*.sh
 *.bat
 *.dat
-vendor/
 .idea.bak/
 .vscode/
 tests/
